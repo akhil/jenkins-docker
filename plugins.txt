@@ -11,6 +11,7 @@ docker-plugin:0.8
 mailer:1.15
 junit:1.5
 durable-task:1.4
+ruby-runtime:0.12
 gitlab-hook:1.3.1
 gitlab-merge-request-jenkins:1.2.2
 gitlab-plugin:1.1.21
